@@ -5,7 +5,11 @@
 A dynamic professional balancing extensive experience in HR Operations and Administration with a deep foundation in Legal Studies. I specialize in optimizing organizational workflows, managing compliance, and exploring how modern technology and AI can bridge the gap between human resources and legal frameworks.
 
 ---
+> 🔒 **A Note on Confidentiality & Compliance:** 
+> Due to the sensitive nature of Human Resources, data privacy laws, and legal non-disclosure boundaries, no proprietary company dashboards, internal workflows, or client data are hosted here. This profile serves strictly as a repository for open-source frameworks, generic legal templates, and industry compliance research.
 
+---
+> 
 ### 🛠️ Core Expertise & Skills
 
 - **HR & Operations:** Performance Management, Recruitment Metrics, System Migrations, Workspace Automation.
