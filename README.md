@@ -32,6 +32,6 @@ A dynamic professional balancing extensive experience in HR Operations and Admin
 ### 🤝 Connect with Me
 
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/nahid-ansari-hr/)
-- 📧 [Drop me an Email](mailto; ansarinahid744@gmail.com)
+- 📧 [Drop me an Email](ansarinahid744@gmail.com)
 
 "Leveraging technology to protect compliance, empower people, and streamline operations."
